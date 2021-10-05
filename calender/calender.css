@@ -103,7 +103,15 @@
   .next-date {
     opacity: 0.5;
   }
-  
+  #copy{
+    text-align: center;
+    color: green;
+    font-size: 15px;
+    size: bold;
+    padding: 5px;
+    
+  }
   .today {
     background-color: #167e56;
   }
+  
